@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               NEXT
-version:            0.63
+version:            0.64
 abstract:           ~
 author:  []
 license:            unknown
@@ -14,7 +14,7 @@ no_index:
     directory:
         - t
         - inc
-generated_by:       ExtUtils::MakeMaker version 6.50
+generated_by:       ExtUtils::MakeMaker version 6.52
 meta-spec:
     url:      http://module-build.sourceforge.net/META-spec-v1.4.html
     version:  1.4

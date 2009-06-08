@@ -11,6 +11,7 @@ MANIFEST.SKIP
 README
 t/actual.t
 t/actuns.t
+t/dynamically_scoped_regex_vars.t
 t/next.t
 t/stringify.t
 t/unseen.t
